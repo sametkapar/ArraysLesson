@@ -1,0 +1,7 @@
+C:\Users\90506\source\repos\DizilerArrays\DizilerArrays\bin\Debug\DizilerArrays.exe.config
+C:\Users\90506\source\repos\DizilerArrays\DizilerArrays\bin\Debug\DizilerArrays.exe
+C:\Users\90506\source\repos\DizilerArrays\DizilerArrays\bin\Debug\DizilerArrays.pdb
+C:\Users\90506\source\repos\DizilerArrays\DizilerArrays\obj\Debug\DizilerArrays.csproj.AssemblyReference.cache
+C:\Users\90506\source\repos\DizilerArrays\DizilerArrays\obj\Debug\DizilerArrays.csproj.CoreCompileInputs.cache
+C:\Users\90506\source\repos\DizilerArrays\DizilerArrays\obj\Debug\DizilerArrays.exe
+C:\Users\90506\source\repos\DizilerArrays\DizilerArrays\obj\Debug\DizilerArrays.pdb
